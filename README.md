@@ -1,5 +1,5 @@
 # RFAWV
-RFAWV == Reload Fields annotated with @Value(and injected by SpringBoot)
+RFAWV == Reload Fields annotated with @Value(and injected by SpringBoot)。用于Spring Boot 配置文件热加载的工具，低开销、对代码零入侵。
 
 ### 1. EXAMPLE
 
