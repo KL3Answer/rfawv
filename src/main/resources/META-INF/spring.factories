@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=org.k3a.springboot.reloadvalue.AutoConfigReloadValue
+org.springframework.context.ApplicationListener=org.k3a.springboot.reloadvalue.listener.ReloadValueApplicationReadyListener
